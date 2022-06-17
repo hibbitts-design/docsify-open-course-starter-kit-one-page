@@ -1,107 +1,109 @@
-> # What’s Happening This Week
-> ## How to explore the problem space?
-> ### Important Reminders
+# CPT-363 User Interface Design
+
+> ## What’s Happening This Week
+> #### How to explore the problem space?
+> ##### Important Reminders
 > * [Journey Map](#) assignment <span class='badge'> Tue Jun 12th 11:59pm PDT</span>
 > * [Course Reflection Log](#) assignment <span class='badge'> Fri Aug 3rd 11:59pm PDT</span>
 >
-> ### Required Reading
+> ##### Required Reading
 > * [The Skeptic’s Guide To Low-Fidelity Prototyping](https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/)
 >
 > [Required Reading Quiz due Jun 4th](https://canvas.sfu.ca/courses/44038/quizzes/166553 ':class=button')
 
-# Week 1 (May 9 - 15)
+## Week 1 (May 9 - 15)
 
 ![UX - User Experience](images/12650723674_d5c85af332_k.jpg ':class=banner-image')
 
-## What is usability and user experience design?
+#### What is usability and user experience design?
 
-### Summaries and Questions | Week 1  
+##### Summaries and Questions | Week 1  
 [May 9th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377751)
 
-### Presented Slides | Week 1  
+##### Presented Slides | Week 1  
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials | Week 1  
+##### Supplemental Materials | Week 1  
 [Elements of User Experience by Jesse James Garrett](https://qofr.files.wordpress.com/2016/11/q-of-r-presentation-11.pdf)
 <div class="responsive-container"><iframe src="https://docs.google.com/viewer?url=http://infolab.stanford.edu/pub/papers/google.pdf&embedded=true" style="width:780px; height:585px;" frameborder="0"></iframe></div>
 
-### Downloads | Week 1
+##### Downloads | Week 1
 [Course Overview](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Course%20Overview)  
 
-### Recommended Reading | Week 1  
+##### Recommended Reading | Week 1  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.nngroup.com/articles/usability-101-introduction-to-usability/">Usability 101: Introduction to Usability</a>
 
 ![Flowchart](images/4853380320_492f9dce63_b.jpg ':class=banner-image')
 
-# Week 2 (May 16 - 22)
+## Week 2 (May 16 - 22)
 
-## What does a holistic user experience design process look like?
+### What does a holistic user experience design process look like?
 
-### Summaries and Questions | Week 2   
+#### Summaries and Questions | Week 2   
 [May 16th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377743)
 
-### Presented Slides | Week 2   
+#### Presented Slides | Week 2   
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### CPT-363 UX Design Process/Toolkit | Week 2
+#### CPT-363 UX Design Process/Toolkit | Week 2
 ![UX Design Process/Toolkit](images/ux-toolkit-8-no-numbers.png)
 
-### Downloads | Week 2
+#### Downloads | Week 2
 [Product Reaction Cards](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Product%20Reaction%20Cards)  
 
-### Assignments | Week 2
+#### Assignments | Week 2
 [Course Reflection Log](https://sso.canvaslms.com/courses/1413912/assignments/9519528)  
 
-### Quick Quiz | Week 2
+#### Quick Quiz | Week 2
 <iframe src="https://h5p.org/h5p/embed/214115" width="728" height="278" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="User-Centered Design"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
 
-### Recommended Reading  
+#### Recommended Reading  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://uxplanet.org/the-evolution-of-ux-process-methodology-47f52557178b">The Evolution of UX Process Methodology</a>
 
-# Week 3 (May 23 - 29)
+## Week 3 (May 23 - 29)
 
 ![Bullseye](images/6384294717_5047a35d48_b.jpg ':class=banner-image')
 
-## How to make more strategic design decisions?
+### How to make more strategic design decisions?
 
-### Summaries and Questions | Week 3  
+#### Summaries and Questions | Week 3  
 [May 23rd Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377744)
 
-### Presented Slides | Week 3  
+#### Presented Slides | Week 3  
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials | Week 3  
+#### Supplemental Materials | Week 3  
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/a40QYgO-_aM" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Assignments | Week 3
+#### Assignments | Week 3
 [Journey Map](https://sso.canvaslms.com/courses/1924881/assignments/14377756)  
 
-### Required Reading | Week 3  
+#### Required Reading | Week 3  
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.aytech.ca/blog/user-journey-map/">What is a User Journey Map?</a>
 
-# Week 4 (May 30 - Jun 5)
+## Week 4 (May 30 - Jun 5)
 
 ![Wireframe](images/6968244538_4c0f7c7e64_k.jpg ':class=banner-image')
 
-## How to explore the problem space?
+### How to explore the problem space?
 
-### Summaries and Questions | Week 4  
+#### Summaries and Questions | Week 4  
 [May 30th Class One-minute Summaries](https://sso.canvaslms.com/courses/1924881/assignments/14377745)
 
-### Presented Slides | Week 4    
+#### Presented Slides | Week 4    
 <div class="video-container-16by9"><iframe src="https://docs.google.com/presentation/d/e/2PACX-1vRnnRFelgw1ksq_p8Eryg3dnyLCRRLPf5fBgdwdv9p-tCIwcxqWvzDGrGbjxGHL7HqEJVpmV26ntk3a/embed?start=false&loop=false&delayms=3000" frameborder="0" width=780" height="585" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe></div>
 
-### Supplemental Materials | Week 4    
+#### Supplemental Materials | Week 4    
 <div class="video-container-4by3"><iframe width="780" height="585" src="https://www.youtube.com/embed/MwidSAlbEB8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
-### Downloads | Week 4  
+#### Downloads | Week 4  
 [4-UP BROWSERS + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-browsers)  
 [4-UP MOBILES + GRID](https://sso.canvaslms.com/courses/1924881/files/folder/Downloads/Sketching%20Templates/sneakpeekit-4-mobiles)  
 
-### Required Reading | Week 4    
+#### Required Reading | Week 4    
 <a class="embedly-card" data-card-controls="0" data-card-align="left" href="https://www.smashingmagazine.com/2014/10/the-skeptics-guide-to-low-fidelity-prototyping/">The Skeptic’s Guide To Low-Fidelity Prototyping</a>
 
-# LMS Links
+## LMS Links
 
 [Calendar](https://canvas.sfu.ca/courses/44038/calendar)  
 [Assignments](https://canvas.sfu.ca/courses/44038/assignments )  
@@ -109,9 +111,9 @@
 [Class Discussions](https://canvas.sfu.ca/courses/44038/discussion_topics)  
 [Syllabus](https://canvas.sfu.ca/courses/44038/assignments/syllabus)  
 
-# Contact
+## Contact
 
-## Course Instructor  
+### Course Instructor  
 Some Name  
 somename@somewhere.edu  
 
