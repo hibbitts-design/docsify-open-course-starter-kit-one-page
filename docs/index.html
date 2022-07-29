@@ -8,8 +8,10 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="icon" href="assets/favicon/favicon.png">
 
-    <!-- Stylesheets -->
-    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css" title="Simple">
+    <!-- Theme: Simple (light + dark) -->
+    <link rel="stylesheet" media="(prefers-color-scheme: light)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple.css">
+    <link rel="stylesheet" media="(prefers-color-scheme: dark)" href="https://cdn.jsdelivr.net/npm/docsify-themeable@0/dist/css/theme-simple-dark.css">
+
     <link rel="stylesheet" href="assets/css/theme.css">
     <link rel="stylesheet" href="assets/css/custom.css">
 
@@ -97,16 +99,16 @@
     <div id="app"></div>
     <script>
       // Enter the URL of your own GitHub Repository in between the two quotes below
-      var gitLinkRepoURL = 'https://github.com/hibbitts-design/docsify-open-course-starter-kit-one-page';
+      var gitLinkRepoURL = '';
 
       // Customize the text for your Edit this Page on GitHub link between the two quotes below
       var editThisPageLinkText = 'Edit this Page';
 
       // Set standalone to true to permanently hide the Sidebar and Navbar
-      var standalone = true;
+      var standalone = false;
 
       // Set ToC to true to permanently show page Table of Contents (Sidebar must also be hidden)
-      var ToC = true;
+      var ToC = false;
 
       // Get value from GET-parameter in URL
       // @param {string} name Parameter-name
@@ -176,7 +178,7 @@
             toc: {
               scope: '.markdown-section',
               headings: 'h2,h3',
-              title: 'Contents',
+              title: 'Table of Contents',
             },
 
           // CUSTOM PLUGINS
