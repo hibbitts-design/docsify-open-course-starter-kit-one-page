@@ -11,12 +11,15 @@
 * Simplified 'ToC' setting in index.html
 * Reduced left margin of page Table of Contents on smaller screens
 * Updated Table of Contents plugin items
+* Added Editor.css file for better Markdown previews
+* Added new Themeable support for light/dark theme switching (OS-level)
 
 **Bugfix:**   
+* Removed unused JS and CSS resources
 * Fixed incorrect links in example course content
 * Added missing Sidebar name and link colour settings
 * Support the removal of the '_sidebar.md' file with standalone setting
-* Remove unused CSS resources
+* Fixed Sidebar and Navbar handling for Remote Docsify usage
 
 ## [v1.1.0](https://github.com/hibbitts-design/docsify-open-course-starter-kit/releases/tag/v1.1.0)
 ### 05/30/2022
