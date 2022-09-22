@@ -176,7 +176,7 @@
             // SIDEBAR NAVIGATION
             // -----------------------------------------------------------------
             auto2top   : true,
-            maxLevel   : 3,
+            maxLevel   : 2,
             // Set subMaxLevel to 0 to remove automatic display of page table of contents (TOC) in Sidebar
             subMaxLevel: 3,
             hideSidebar: (getURLParameterByName(['standalone','embedded']) || standalone),
@@ -192,7 +192,7 @@
 
             toc: {
               scope: '.markdown-section',
-              headings: 'h2,h3',
+              headings: 'h1,h2',
               title: '',
             },
 
