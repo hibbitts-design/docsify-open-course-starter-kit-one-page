@@ -297,9 +297,9 @@
             var creditHtml = '\n\n' + 'This site was built with the <a href="https://github.com/hibbitts-design/docsify-open-course-starter-kit" target="_blank">Docsify Open Course Starter Kit</a>.'
 
             if ((!(getURLParameterByName('hidegitlink'))) && (!!gitLinkRepoURL)) {
-              return html + '<br />' + '\n\n' + editHtml
+              return html + '<br />' + '\n\n' + editHtml + creditHtml
             } else {
-              return html
+              return html + creditHtml
             }
 
           });
